@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-[Solution URL]() |
-[Live Site URL]() |
+[Solution URL](https://www.frontendmentor.io/solutions/responsive-mobilefirst-with-sass-using-flexbox-and-grid-8MG8gR09i) |
+[Live Site URL](https://samudriawan.github.io/four-card-feature-section-frontendmentor/) |
 [Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 
 ## My process
